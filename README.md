@@ -1,1 +1,0 @@
-# Virtual_Environment_ComputerGraphics
